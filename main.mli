@@ -1,0 +1,1 @@
+(** Starts, executes and quits the game.*)

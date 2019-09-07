@@ -1,0 +1,360 @@
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Runner: processes
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Chooser: simple
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration suite_name = "state"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration cache_filename = "/Users/peter/Documents/GitHub/A6-A7-3110/_build/oUnit-$(suite_name).cache"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration display = "true"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration verbose = "false"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration health_check_interval = "1."
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration testdata_dir = "none"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration chooser = "simple"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration output_html_dir = "none"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration runner = "processes"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration shards = "2"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration output_junit_file = "none"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Configuration output_file = "/Users/peter/Documents/GitHub/A6-A7-3110/_build/oUnit-$(suite_name)-$(shard_id).log"
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Using 2 workers maximum.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Starting worker number dhcp-clara-6271.redrover.cornell.edu#01.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Worker dhcp-clara-6271.redrover.cornell.edu#01 started.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Starting worker number dhcp-clara-6271.redrover.cornell.edu#02.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Worker dhcp-clara-6271.redrover.cornell.edu#02 started.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:1:check dimension 5, state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:1:check dimension 5, state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:1:check dimension 5, state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:0:check dimension 1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:1:check dimension 5, state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:1:check dimension 5, state:0:check dimension 1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:2:check dimension 7, state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:2:check dimension 7, state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:1:check dimension 5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:2:check dimension 7, state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:2:check dimension 7, state:1:check dimension 5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:3:myfirsttestohyeah, state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:3:myfirsttestohyeah, state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:2:check dimension 7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:3:myfirsttestohyeah, state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:3:myfirsttestohyeah, state:2:check dimension 7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:4:mysecondtestohyeah, state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:4:mysecondtestohyeah, state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:3:myfirsttestohyeah is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:4:mysecondtestohyeah, state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:4:mysecondtestohyeah, state:3:myfirsttestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:5:mythirdtest, state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:5:mythirdtest, state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:4:mysecondtestohyeah is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:5:mythirdtest, state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:5:mythirdtest, state:4:mysecondtestohyeah.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:6:myfourthtest, state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:6:myfourthtest, state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:5:mythirdtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:6:myfourthtest, state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:6:myfourthtest, state:5:mythirdtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:7:my5thtest, state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:7:my5thtest, state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:6:myfourthtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:7:my5thtest, state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:7:my5thtest, state:6:myfourthtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:8:bandtest1, state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:8:bandtest1, state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:7:my5thtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:8:bandtest1, state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:8:bandtest1, state:7:my5thtest.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:9:bandtest2, state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:9:bandtest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:9:bandtest2, state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:8:bandtest1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:9:bandtest2, state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:9:bandtest2, state:8:bandtest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:10:bandtest3, state:9:bandtest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:9:bandtest2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:10:bandtest3, state:9:bandtest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:9:bandtest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:10:bandtest3, state:9:bandtest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:11:bandtest4, state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:11:bandtest4, state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:10:bandtest3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:11:bandtest4, state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:11:bandtest4, state:10:bandtest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:12:bandtest5, state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:12:bandtest5, state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:11:bandtest4 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:12:bandtest5, state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:12:bandtest5, state:11:bandtest4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:13:bandtest6, state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:13:bandtest6, state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:12:bandtest5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:13:bandtest6, state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:13:bandtest6, state:12:bandtest5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:14:bandtest7, state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:14:bandtest7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:14:bandtest7, state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:13:bandtest6 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:14:bandtest7, state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:14:bandtest7, state:13:bandtest6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:15:bandtest8, state:14:bandtest7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:14:bandtest7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:15:bandtest8, state:14:bandtest7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:14:bandtest7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:15:bandtest8, state:14:bandtest7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:16:bandtest9, state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:16:bandtest9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:16:bandtest9, state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:15:bandtest8 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:16:bandtest9, state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:16:bandtest9, state:15:bandtest8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:16:bandtest9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:17:bandtest10, state:16:bandtest9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:16:bandtest9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:17:bandtest10, state:16:bandtest9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:18:bandtest11, state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:18:bandtest11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:18:bandtest11, state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:17:bandtest10 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:18:bandtest11, state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:18:bandtest11, state:17:bandtest10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:18:bandtest11 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:19:test1, state:18:bandtest11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:18:bandtest11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:19:test1, state:18:bandtest11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:20:test2, state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:20:test2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:20:test2, state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:19:test1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:20:test2, state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:20:test2, state:19:test1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:20:test2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:21:test3, state:20:test2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:20:test2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:21:test3, state:20:test2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:22:test4, state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:22:test4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:22:test4, state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:22:test4, state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:21:test3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:22:test4 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:22:test4, state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:22:test4.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:22:test4, state:21:test3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:24:test6, state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:24:test6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:24:test6, state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:23:test5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:24:test6, state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:24:test6 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:24:test6, state:23:test5.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:24:test6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:25:test7, state:24:test6.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:26:test8, state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:26:test8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:26:test8, state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:25:test7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:26:test8 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:26:test8, state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:26:test8.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:26:test8, state:25:test7.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:28:test9, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:28:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:28:test9, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:28:test9, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:28:test9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:28:test9, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:28:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:28:test9, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:29:test10, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:29:test10, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:27:test9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:29:test10, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:29:test10, state:27:test9.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:30:test11, state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:30:test11, state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:29:test10 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:30:test11, state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:30:test11, state:29:test10.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:31:test12, state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:31:test12, state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:30:test11 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:31:test12, state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:31:test12, state:30:test11.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:32:test13, state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:32:test13, state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:31:test12 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:32:test13, state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:32:test13, state:31:test12.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:33:stest1, state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:33:stest1, state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:32:test13 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:33:stest1, state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:33:stest1, state:32:test13.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:34:stest2, state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:34:stest2, state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:33:stest1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:34:stest2, state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:34:stest2, state:33:stest1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:35:stest3, state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:35:stest3, state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:34:stest2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:35:stest3, state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:35:stest3, state:34:stest2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:36:greyp1, state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:36:greyp1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:36:greyp1, state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:36:greyp1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:36:greyp1, state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:35:stest3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:36:greyp1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:36:greyp1, state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:37:greyp2, state:35:stest3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:38:cgreyp, state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:38:cgreyp.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:38:cgreyp, state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:37:greyp2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:38:cgreyp is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:38:cgreyp, state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:38:cgreyp.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:38:cgreyp, state:37:greyp2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:40:oddeven1, state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Start test state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:40:oddeven1, state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:39:count is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:40:oddeven1, state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:40:oddeven1, state:39:count.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:41:oddeven2, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:41:oddeven2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:41:oddeven2, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:41:oddeven2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:41:oddeven2, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: Test state:40:oddeven1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:41:oddeven2.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:41:oddeven2, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#02 I: End test state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Still 2 tests running : state:42:oddeven3, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 2 tests running: state:42:oddeven3, state:40:oddeven1.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Start test state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Still 1 tests running : state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 1 tests running: state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: Test state:42:oddeven3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Still 1 tests running : state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 1 tests running: state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#01 I: End test state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Still 1 tests running : state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 1 tests running: state:42:oddeven3.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: 0 tests running: .
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Worker dhcp-clara-6271.redrover.cornell.edu#02 has ended.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Worker dhcp-clara-6271.redrover.cornell.edu#01 has ended.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Used 2 worker during test execution.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Run 20 tests with shard dhcp-clara-6271.redrover.cornell.edu#02.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Run 23 tests with shard dhcp-clara-6271.redrover.cornell.edu#01.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: ==============
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Summary:
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:42:oddeven3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:40:oddeven1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:41:oddeven2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:39:count is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:38:cgreyp is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:37:greyp2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:35:stest3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:36:greyp1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:34:stest2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:33:stest1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:32:test13 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:31:test12 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:30:test11 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:29:test10 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:27:test9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:28:test9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:26:test8 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:25:test7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:24:test6 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:23:test5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:22:test4 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:21:test3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:20:test2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:19:test1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:18:bandtest11 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:17:bandtest10 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:16:bandtest9 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:15:bandtest8 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:14:bandtest7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:13:bandtest6 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:12:bandtest5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:11:bandtest4 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:10:bandtest3 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:9:bandtest2 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:8:bandtest1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:7:my5thtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:6:myfourthtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:5:mythirdtest is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:4:mysecondtestohyeah is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:3:myfirsttestohyeah is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:2:check dimension 7 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:1:check dimension 5 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Test state:0:check dimension 1 is successful.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Ran: 43 tests in: 0.14 seconds.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Cases: 43.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Tried: 43.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Errors: 0.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Failures: 0.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Skip: 0.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Todo: 0.
+2019-04-25T03:49:52+00:00 dhcp-clara-6271.redrover.cornell.edu#00 I: Timeout: 0.

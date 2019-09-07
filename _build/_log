@@ -1,0 +1,52 @@
+### Starting build.
+# Target: main.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:main.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules main.mli > main.mli.depends # cached
+# Target: main.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:main.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o main.cmi main.mli # cached
+# Target: main.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:main.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules main.ml > main.ml.depends # cached
+# Target: command.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:command.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules command.mli > command.mli.depends # cached
+# Target: command.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:command.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o command.cmi command.mli # cached
+# Target: interpreter.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:interpreter.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules interpreter.mli > interpreter.mli.depends # cached
+# Target: state.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:state.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules state.mli > state.mli.depends # cached
+# Target: state.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:state.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o state.cmi state.mli # cached
+# Target: interpreter.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:interpreter.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o interpreter.cmi interpreter.mli # cached
+# Target: prettyprint.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:prettyprint.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules prettyprint.mli > prettyprint.mli.depends # cached
+# Target: prettyprint.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:prettyprint.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o prettyprint.cmi prettyprint.mli # cached
+# Target: socket.mli.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:mli, file:socket.mli, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules socket.mli > socket.mli.depends # cached
+# Target: socket.cmi, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:mli, file:socket.mli, interf, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o socket.cmi socket.mli # cached
+# Target: main.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:main.cmo, file:main.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o main.cmo main.ml # cached
+# Target: command.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:command.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules command.ml > command.ml.depends # cached
+# Target: command.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:command.cmo, file:command.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o command.cmo command.ml # cached
+# Target: interpreter.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:interpreter.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules interpreter.ml > interpreter.ml.depends # cached
+# Target: interpreter.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:interpreter.cmo, file:interpreter.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o interpreter.cmo interpreter.ml # cached
+# Target: prettyprint.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:prettyprint.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules prettyprint.ml > prettyprint.ml.depends # cached
+# Target: prettyprint.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:prettyprint.cmo, file:prettyprint.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o prettyprint.cmo prettyprint.ml # cached
+# Target: socket.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:socket.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules socket.ml > socket.ml.depends # cached
+# Target: socket.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:socket.cmo, file:socket.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o socket.cmo socket.ml # cached
+# Target: state.ml.depends, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), extension:ml, file:state.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -modules state.ml > state.ml.depends # cached
+# Target: state.cmo, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, compile, extension:cmo, extension:ml, file:state.cmo, file:state.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp -o state.cmo state.ml # cached
+# Target: main.byte, tags: { package(ANSITerminal), package(bisect), package(oUnit), syntax(bisect_pp), syntax(camlp4o), byte, dont_link_with, extension:byte, file:main.byte, link, ocaml, program, quiet, traverse }
+ocamlfind ocamlc -linkpkg -package oUnit -package ANSITerminal -package bisect -syntax camlp4o -syntax bisect_pp command.cmo state.cmo interpreter.cmo prettyprint.cmo socket.cmo main.cmo -o main.byte # cached
+# Compilation successful.
